@@ -1,0 +1,20 @@
+{
+  "name": "angular-prettySocial",
+  "version": "1.0.0",
+  "title": "prettySocial - custom social share buttons.",
+  "description": "Custom share buttons for Pinterest, Twitter, Facebook and Google Plus.",
+  "author": {
+    "name": "Sonny T.",
+    "url": "https://sonnyt.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://ionden.com/a/licence-en.html"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.9.1"
+  }
+}
